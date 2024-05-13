@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Pratiksha Pai. I'm a 2nd year Master's Computer Engineering student at [Georgia Institute of Technology](https://ece.gatech.edu/). I'm working in Working @ Neural Information Processing Lab, Georgia Tech with [Prof. Celikel Tansu](https://www.centerfordecisionscience.nl/tansu-celikel). Learning basics of Generative AI and working on pet projects!
+Hi, I'm Parth Pai. I'm a 2nd year Bachelor's Mechanical Engineering student at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). 
