@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: meme.jpeg
+  image: parth.jpeg
   image_circular: false # crops the image to make it circular
 
 
