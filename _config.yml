@@ -39,7 +39,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  The best way to reach me is via <a href="mailto:parthpai07@gmail.com"> email </a>.
+  The best way to reach me is via <a href="mailto:parthpai07@gmail.com"> email </a>. If you are a recruiter, please reach out on <a href="https://www.linkedin.com/in/parth-pai/"> LinkedIn </a>. 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

@@ -20,4 +20,4 @@ Hi there!, I'm Parth Pai, currently a third year Bachelor's Mechanical Engineeri
 
 I am currently interested in Generative AI and Large Language Models. As a fun project, I followed [Andrej Karapathy's GPT video](https://www.youtube.com/watch?v=kCc8FmEb1nY) to create my own [custom_gpt](https://github.com/parth-pai/custom_gpt). I am also interested in Music generation using Machine Learning.
 
-Previously I did my 11th and 12th at [CFAL Mangalore](https://www.cfalindia.com/). My hobbies include playing Hindustani Classical Instruments like Flute and Harmonium.
+Previously I did my 11th and 12th at [CFAL Mangalore](https://www.cfalindia.com/). My hobbies include playing Hindustani Classical Instruments like Flute and Harmonium, and going on treks
