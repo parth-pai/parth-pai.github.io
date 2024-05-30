@@ -2,6 +2,8 @@ github_users:
   - parth-pai # bad stats currently
 
 github_repos:
+  - parth-pai/custom_gpt
+  - parth-pai/me228-ml-project
   - parth-pai/Learners_Space_2023_NLP
   - parth-pai/SOC23_Breakout_Genius
   - parth-pai/ms101_mountain_cargo_challenge

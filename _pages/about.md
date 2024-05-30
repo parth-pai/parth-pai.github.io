@@ -16,4 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Parth Pai. I'm a 2nd year Bachelor's Mechanical Engineering student at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). 
+Hi there!, I'm Parth Pai, currently a third year Bachelor's Mechanical Engineering student at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). You can find my resume in the CV section!
+
+
