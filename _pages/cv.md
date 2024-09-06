@@ -9,7 +9,6 @@ description: My Resume
 toc:
   sidebar: left
 ---
----
 layout: cv
 permalink: /cv/
 title: cv
