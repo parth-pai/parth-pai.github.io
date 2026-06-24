@@ -4,9 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - SOC23_Breakout_Genius
-  - Learners_Space_2023_NLP
-  - me781_course_project
-  - custom_gpt
-  - SOC24_Music_Generation
-  - transfer-learning-resnet
+  - parth-pai/SOC23_Breakout_Genius
+  - parth-pai/Learners_Space_2023_NLP
+  - parth-pai/me781_course_project
+  - parth-pai/custom_gpt
+  - parth-pai/SOC24_Music_Generation
+  - parth-pai/transfer-learning-resnet
