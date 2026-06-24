@@ -10,6 +10,6 @@ calendar: true
 
 This page displays a collection of courses which I became a Teaching Assistant for, during my stay at IITB or elsewhere.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+{% include calendar.liquid calendar_id='papai@ucsd.edu' timezone='Asia/Kolkata' %}
 
 {% include courses.liquid %}

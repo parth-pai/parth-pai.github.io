@@ -1,7 +1,7 @@
 cv:
   name: Parth Pundalik Pai
   label: Masters Student in Data Science
-  phone: +91 7975829293
+  phone: "+91 7975829293"
   email: papai@ucsd.edu
   location: Mumbai, India
   image: ""
@@ -9,11 +9,11 @@ cv:
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: parthppai
     - network: GitHub
-      username: example
+      username: parth-pai
     - network: LinkedIn
-      username: example
+      username: parth-pai
 
   address:
     street: Hostel 4, IIT Bombay, Powai
@@ -28,7 +28,7 @@ cv:
         location: Mumbai, India
         url: https://www.iitb.ac.in/
         area: Mechanical Engineering with Minor in Computer Science
-        studyType: B.tech
+        studyType: Bachelors of Technology
         start_date: 2022
         end_date: 2026
         score: "8.74/10"
@@ -39,6 +39,7 @@ cv:
 
       - institution: KTH Royal Institute of Technology
         location: Stockholm, Sweden
+        url: https://www.kth.se/
         area: Industrial Engineering and Management
         studyType: Exchange Program
         start_date: 2025
@@ -51,8 +52,8 @@ cv:
       - company: Jaguar Land Rover
         position: Data Science Intern
         location: Bangalore, India
-        start_date: May 2025
-        end_date: July 2025
+        start_date: 2025-05
+        end_date: 2025-07
         summary: Worked on a project to build surrogate model to predict vehicle dynamics parameters using machine learning.
         # highlights:
         #   - Relativity
@@ -137,11 +138,11 @@ cv:
     #     url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
     #     summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    # Skills:
+    #   - name: Physics
+    #     level: Master
+    #     icon: fa-solid fa-hashtag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
       - name: English 
@@ -156,10 +157,10 @@ cv:
       - name: Konkani
         summary: "Native Speaker"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    # Interests:
+    #   - name: Physics
+    #     icon: fa-solid fa-tag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     # Certificates:
     #   - name: Machine Learning
