@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: My experience as a Teaching assistant
-nav: true
+nav: false
 nav_order: 6
 calendar: true
 ---
@@ -12,4 +12,4 @@ This page displays a collection of courses which I became a Teaching Assistant f
 
 {% include calendar.liquid calendar_id='papai@ucsd.edu' timezone='Asia/Kolkata' %}
 
-{% include courses.liquid %}
+<!-- {% include courses.liquid %} -->
