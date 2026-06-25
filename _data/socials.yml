@@ -15,6 +15,6 @@ whatsapp_number: +91 7975829293 # your WhatsApp number (full phone number in int
 #   url: https://www.parth-pai.github.io/
 
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: fa-brands fa-Linkedin # can be png, svg, jpg
-  title: Linkedin
+  logo: fa-brands fa-linkedin # can be png, svg, jpg
+  title: LinkedIn
   url: https://www.linkedin.com/in/parth-pai/
