@@ -3,7 +3,7 @@ cv:
   label: Masters Student in Data Science
   phone: "+91 7975829293"
   email: papai@ucsd.edu
-  location: Mumbai, India
+  location: Bhatkal, Karnataka , India
   image: ""
   summary: An incoming Masters student in Data Science at University of California, San Diego.
 
@@ -16,10 +16,10 @@ cv:
       username: parth-pai
 
   address:
-    street: Hostel 4, IIT Bombay, Powai
-    city: Mumbai
-    region: Maharashtra
-    postalCode: 400076
+    street: 
+    city: Bhatkal
+    region: Karnataka
+    postalCode: 581320
     countryCode: IN
 
   sections:

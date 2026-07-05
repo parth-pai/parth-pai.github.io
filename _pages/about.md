@@ -9,9 +9,7 @@ profile:
   image: parth.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hostel 4</p>
-    <p>IIT Bombay, Powai</p>
-    <p>Mumbai, India 400076</p>
+    <p>Bhatkal, Karnataka, India 581320</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,4 +31,4 @@ I was fortunate to work in [Jaguar Land Rover](https://www.jlr.com/) as a Machin
 
 I am trained professionally in Hindustani classical [Flute](https://en.wikipedia.org/wiki/Bansuri) and [Harmonium](https://en.wikipedia.org/wiki/Indian_harmonium). During my leisure time, I play these instruments and sing sometimes. You can check out my performances in [Roots IITB](https://www.youtube.com/@rootsiitbombay1493) and [Symphony IITB](https://www.youtube.com/@SymphonyIITBombay) youtube channels. I like to go on hikes around mountains and travel around to explore nature. I'll add photos here soon!
 
-You can connect me on Linkedin here using [this](https://www.linkedin.com/in/parth-pai/) link.
+You can find my github link [here](https://github.com/parth-pai/). 

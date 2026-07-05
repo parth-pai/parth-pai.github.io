@@ -18,3 +18,8 @@ custom_social: # can be any name here other than the ones already defined in the
   logo: fa-brands fa-linkedin # can be png, svg, jpg
   title: LinkedIn
   url: https://www.linkedin.com/in/parth-pai/
+
+custom_github:
+  logo: fa-brands fa-github
+  title: GitHub
+  url: https://github.com/parth-pai
