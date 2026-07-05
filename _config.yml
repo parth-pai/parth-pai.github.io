@@ -241,6 +241,7 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - drafts_old/
 keep_files:
   - CNAME
   - .nojekyll
