@@ -17,7 +17,7 @@ I was balancing both intern season and semex application, the former being much 
 
 Unlike Masters application and all, you do not need any SOP / LOR / CV etc for Exchange. Exchange is determined only by your CPI and Branch and your preference. Nothing else is generally required. 
 
-You can also check out the mech damp blog on semester exchange for KTH written by me, linked [here](https://mechdampiitb.github.io/ParthPundalikPai/)
+You can also check out the mech damp blog on semester exchange for KTH written by me, linked [here](https://mechdampiitb.github.io/ParthPundalikPai/). You can find my Semester Exchange Mappings and resources [here](https://drive.google.com/drive/folders/13f3AwOjMe3a02uuCY7E7AteOW30hpS6P?usp=sharing)
 
 
 ### Shortlisting University and Mapping courses
