@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Parth Pai, an incoming Data Science Masters student at [UCSD](https://ucsd.edu/) during Fall 2026. I graduated with a B.Tech degree in Mechanical Engineering with a minor in Data Science from [IIT Bombay](https://www.iitb.ac.in) in Mumbai, India. My research interest lie in the intersection of Machine Learning and Music.
+Hi, I am Parth Pai, an incoming Data Science Masters student at [UCSD](https://ucsd.edu/) during Fall 2027. I graduated with a B.Tech degree in Mechanical Engineering with a minor in Data Science from [IIT Bombay](https://www.iitb.ac.in) in Mumbai, India. My research interest lie in the intersection of Machine Learning and Music.
 
 I was fortunate to work in [Jaguar Land Rover](https://www.jlr.com/) as a Machine learning intern in their team during the Summers of 2025. I also worked in a computational neuroscience project during my stay at KTH optimizing the firing rates of neurons. Previously I was also a part of [IITB Student Satellite Program](https://www.aero.iitb.ac.in/satlab/) working in the Guidance, Navigation and Controls team.
 
