@@ -24,9 +24,53 @@ These are some of my resources from vocals and flute class that I used to attend
 
 The following are the photos of my instruments. Harmonium which has been passed down from generations and 4 out of these 5 flutes were made by my guruji at their home.
 
-![Harmonium](https://parth-pai.github.io/assets/img/harmonium.jpeg)
+<style>
+.instrument-images {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: flex-start;
+}
 
-![Flutes](https://parth-pai.github.io/assets/img/flutes.jpeg)
+.instrument-images figure {
+  width: calc(50% - 6px);
+  margin: 0;
+  text-align: center;
+}
+
+.instrument-images img {
+  width: 100%;
+  height: auto;
+}
+
+.instrument-images figcaption {
+  margin-top: 6px;
+  font-weight: 600;
+}
+
+/* Phone */
+@media (max-width: 600px) {
+  .instrument-images {
+    flex-direction: column;
+  }
+
+  .instrument-images figure {
+    width: 100%;
+  }
+}
+</style>
+
+<div class="instrument-images">
+  <figure>
+    <img src="https://parth-pai.github.io/assets/img/harmonium.jpeg" alt="Harmonium">
+    <figcaption>Harmonium</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://parth-pai.github.io/assets/img/flutes.jpeg" alt="Flutes">
+    <figcaption>Flutes</figcaption>
+  </figure>
+</div>
 
 
 
