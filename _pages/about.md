@@ -9,7 +9,7 @@ profile:
   image: parth.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bhatkal, Karnataka, India 581320</p>
+    <p>Sonipat, Haryana, India 131029</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Parth Pai, a recent graduate with a B.Tech degree in Mechanical Engineering with a minor in Data Science from [IIT Bombay](https://www.iitb.ac.in) in Mumbai, India. My research interest lie in the intersection of Machine Learning, optimization and Applied probability. I'll be joining [SCDLDS centre](https://scdlds.ashoka.edu.in/) as a Predoc under [Prof. Sandeep Juneja](https://sandeep-juneja.github.io/).
+Hi, I am Parth Pai, a recent graduate with a B.Tech degree in Mechanical Engineering with a minor in Data Science from [IIT Bombay](https://www.iitb.ac.in) in Mumbai, India. My research interest lie in the intersection of Machine Learning, optimization and Applied probability. I'll be joining [SCDLDS centre](https://scdlds.ashoka.edu.in/) as a Predoc under [Prof. Sandeep Juneja](https://sandeep-juneja.github.io/) working in Weather Modelling and applied probability.
 
 I was fortunate to work in [Jaguar Land Rover](https://www.jlr.com/) as a Machine learning intern in their team during the Summers of 2025. I also worked in a computational neuroscience project during my stay at KTH optimizing the firing rates of neurons. Previously I was also a part of [IITB Student Satellite Program](https://www.aero.iitb.ac.in/satlab/) working in the Guidance, Navigation and Controls team.
 

@@ -2,8 +2,8 @@ cv:
   name: Parth Pundalik Pai
   label: Masters Student in Data Science
   phone: "+91 7975829293"
-  email: papai@ucsd.edu
-  location: Bhatkal, Karnataka , India
+  email: parth.iitbmech@ucsd.edu
+  location: Sonipat, Haryana, India
   image: ""
   summary: An incoming Masters student in Data Science at University of California, San Diego.
 
@@ -17,9 +17,9 @@ cv:
 
   address:
     street: 
-    city: Bhatkal
-    region: Karnataka
-    postalCode: 581320
+    city: Sonipat
+    region: Haryana
+    postalCode: 131029
     countryCode: IN
 
   sections:
