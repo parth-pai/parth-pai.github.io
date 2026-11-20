@@ -24,6 +24,8 @@ These are some of my resources from vocals and flute class that I used to attend
 
 The following are the photos of my instruments. Harmonium which has been passed down from generations and 4 out of these 5 flutes were made by my guruji at their home.
 
+*Update*: I bought sitar in Delhi. Will start learning it and update the photo here as well!
+
 <style>
 .instrument-images {
   display: flex;
